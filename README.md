@@ -1,6 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+2020/5/25 10:51:13
+# 这是用react、高德地图写的运动定位工具  #
 
-![截图](./public/logo512.png) 
+
+## 应用截图： ##
+
+![截图](https://thumbnail0.baidupcs.com/thumbnail/bc496f52co37ff2be5933879a0f78a50?fid=2915984167-250528-452518855547315&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-LwKzFfRcXgXeAG3ij3Ss7JGqxsw%3d&expires=8h&chkbd=0&chkv=0&dp-logid=3390634459418136937&dp-callid=0&time=1590436800&size=c1920_u1080&quality=90&vuk=2915984167&ft=image&autopolicy=1)
+
+
+![截图](https://thumbnail0.baidupcs.com/thumbnail/37a28c3a1t4a9f0a8ea4bc042a315cb9?fid=2915984167-250528-330855282609864&amp;rt=pr&amp;sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-X3crABxSDCWldqOhxm7ligN3lp0%3d&amp;expires=8h&amp;chkbd=0&amp;chkv=0&amp;dp-logid=3389734031922416542&amp;dp-callid=0&amp;time=1590433200&amp;size=c1920_u1080&amp;quality=90&amp;vuk=2915984167&amp;ft=image&amp;autopolicy=1)
+
+
+![](https://thumbnail0.baidupcs.com/thumbnail/bc496f52co37ff2be5933879a0f78a50?fid=2915984167-250528-452518855547315&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-LwKzFfRcXgXeAG3ij3Ss7JGqxsw%3d&expires=8h&chkbd=0&chkv=0&dp-logid=3390634459418136937&dp-callid=0&time=1590436800&size=c1920_u1080&quality=90&vuk=2915984167&ft=image&autopolicy=1)
 
 ## Available Scripts
 
@@ -39,32 +49,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
